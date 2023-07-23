@@ -1,0 +1,12 @@
+Robotics is the branch of technology that deals with the design, construction, operation, and application of robots.
+
+A robot is a machine—especially one programmable by a computer—capable of carrying out a complex series of actions automatically.
+
+The six most common types of robots are: autonomous mobile robots (AMRs), automated guided vehicles (AGVs), articulated robots, humanoids, cobots, and hybrids.
+
+
+First humanoid robots: In 1928, one of the first humanoid robots was exhibited at the Model Engineers Society annual exhibition in London. Invented by W. H. Richards, the robot – named Eric – consisted of an aluminium suit of armour with eleven electromagnets and one motor powered by a 12-volt power source.
+
+Need for robots: eliminate dangerous jobs for humans because they are capable of working in hazardous environments. They can handle lifting heavy loads, toxic substances and repetitive tasks. This has helped companies to prevent many accidents, also saving time and money.
+
+AcYut: It known to be India's first indigenous robot, was developed by undergraduate students at the Birla Institute of Technology and Science (BITS), Pilani, India.
